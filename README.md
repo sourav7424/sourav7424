@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Web Frameworks, Web Development, Cloud Computing**
 
-- 📝 I regularly write articles on [Technology](Technology)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sourav-raj-verma/)
 
 - 💬 Ask me about **C/C++, java, cloud, web, networking**
 
 - 📫 How to reach me **souravrajverma1234@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NfFlCqKHm1fxul8CQicHm7KOcFV_p8tp/view?usp=share_link](https://drive.google.com/file/d/1NfFlCqKHm1fxul8CQicHm7KOcFV_p8tp/view?usp=share_link)
 
 - ⚡ Fun fact **I sometimes kind of Weird.**
 
